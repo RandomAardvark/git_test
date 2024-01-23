@@ -2,3 +2,4 @@ I am adding test to verify that this is working.
 Verify core.editor change.
 I am trying this out in an attempt to retain knowledge
 Verify previous work
+Verify previous lessons again
